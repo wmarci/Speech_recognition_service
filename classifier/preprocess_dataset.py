@@ -2,7 +2,7 @@ import librosa
 import os
 import json
 
-DATASET_PATH = "dataset"
+DATASET_PATH = "/mnt/d/speech_dataset"
 JSON_PATH = "data.json"
 SAMPLES_TO_CONSIDER = 22050  # 1 sec. of audio
 
